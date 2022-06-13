@@ -1,5 +1,3 @@
-import Foundation
-
 func solution(_ n: Int, _ k: Int) -> String {
   var arr = Array(1...n)
   var index = 0
